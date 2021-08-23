@@ -26,10 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Order summary card coding challenge](images\challenge1.jpg)
+![image](https://user-images.githubusercontent.com/47711649/130433797-61f3f687-ce68-401e-82de-5874bd5a2cb1.png)
 
 
-challenge1.jpg
 
 
 ### Links
