@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Order summary card coding challenge](images\challenge1.jpg)
+![Design preview for the Order summary card coding challenge](\images\challenge1.jpg)
 
 
 
